@@ -1,2 +1,1 @@
-# windowsPrivEscCheatSheet
-WindowsPrivEscCheatSheet
+# windows and linux priv esc cheatsheet

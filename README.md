@@ -1,0 +1,2 @@
+# windowsPrivEscCheatSheet
+WindowsPrivEscCheatSheet
